@@ -3,7 +3,7 @@ A senior software engineer based in Toronto, Canada. I primarily work with Pytho
 
 ## :toolbox: Tech Stack
 
-#### languages and frameworks:
+### languages and frameworks:
 - **.NET :hearts: :** I have used several versions of .NET, including .Net Core, .Net 4.5 and other microsoft related technologies like ASP.NET MVC, Web API, SOAP, VB.NET 
 - **Python :rocket: :** My new found love, I use python for everything from data engineering to building API's using Fast API
 ### Cloud/Serverless:
