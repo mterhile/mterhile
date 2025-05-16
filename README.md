@@ -1,6 +1,9 @@
 ## Hi 👋 I'm Manasseh! 
-A senior software engineer based in Toronto, Canada. I primarily work with Python, .NET, and cloud platforms like Azure and Google Cloud. Thanks to my passion for continuous learning and development, I've also become proficient with tools like Apache Airflow and Azure Data Factory, allowing me to take on a wide range of data engineering and workflow automation tasks.
+I’m a senior software engineer with strong experience across the Banking, FinTech, and AdTech sectors leveraging Python, .NET, and cloud platforms such as Azure and Google Cloud. One of my core strengths is taking full ownership of my work—I consistently go above and beyond to ensure my team and company succeed.
+I’m also deeply passionate about continuous learning and growth. 
 
+I’m currently sharpening my system design skills to build robust, high-performance architectures, and diving deeper into artificial intelligence—focusing on machine learning, LLMs. 
+ 
 ## :toolbox: Tech Stack
 
 ### languages and frameworks:
@@ -20,7 +23,7 @@ A senior software engineer based in Toronto, Canada. I primarily work with Pytho
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently learning and exploring AI, System design topics
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
